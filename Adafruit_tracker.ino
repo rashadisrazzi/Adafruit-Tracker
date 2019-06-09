@@ -1,4 +1,3 @@
-
 #include "Adafruit_MQTT.h"                                  // Adafruit MQTT library
 #include "Adafruit_MQTT_Client.h"                           // Adafruit MQTT library
 #include "ESP8266WiFi.h"                                    // ESP8266 library     
